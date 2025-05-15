@@ -1,0 +1,4 @@
+module SafeExpressionObjC {
+    header "SafeExpression.h"
+    export *
+}
